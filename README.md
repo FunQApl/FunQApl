@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FunQApl
-- 👀 I’m writing software testing blog on side htttp://funqa.pl
+- 👀 I’m writing software testing blog on side http://funqa.pl
 
 <!---
 FunQApl/FunQApl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
